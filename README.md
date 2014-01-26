@@ -1,5 +1,5 @@
 #Gamyes Android App
 
-Set up environment
+##Set up environment
 
 Run mvn deploy
